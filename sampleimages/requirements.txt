@@ -1,0 +1,10 @@
+libraries used : python 3
+		         tkinter
+		         messagebox
+		         PIL
+		         opencv
+		         argparse
+	 	         numpy
+		         os
+                 imutils
+		 
